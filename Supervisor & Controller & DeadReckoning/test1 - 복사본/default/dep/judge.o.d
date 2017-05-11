@@ -1,0 +1,1 @@
+judge.o: ../judge.c
